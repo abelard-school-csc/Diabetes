@@ -36,20 +36,6 @@ Receiver Operating Characteristic (ROC) curve for the logistic regression model:
 
 ---
 
-## Statistical Test Results
-- **Glucose Levels:** T-statistic = `TBA`, P-value = `TBA`
-- **BMI Levels:** T-statistic = `TBA`, P-value = `TBA`
-
----
-
-## Logistic Regression Model Performance
-- **Accuracy:** `TBA`
-- **Precision:** `TBA`
-- **Recall:** `TBA`
-- **ROC AUC:** `TBA`
-
----
-
 ## How to Run the Code
 1. Install the required Python packages:
    ```bash
